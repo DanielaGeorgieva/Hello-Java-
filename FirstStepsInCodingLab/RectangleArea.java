@@ -1,4 +1,4 @@
-package Step1;
+package FirstStepsInCodingLab;
 import java.util.Scanner;
 
 public class RectangleArea {

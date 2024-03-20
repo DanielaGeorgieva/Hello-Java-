@@ -1,4 +1,4 @@
-package Step1;
+package FirstStepsInCodingLab;
 
 public class Nums1To10 {
     public static void main(String[] args) {
